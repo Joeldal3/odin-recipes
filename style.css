@@ -1,0 +1,21 @@
+#page{background-color:tomato;}
+.head{
+    color: pink;
+    font-size: 80px;
+    font-family: cursive, sans-serif;
+    font-weight: bold;
+text-align: center;}
+
+.img{
+    text-align: center;
+}
+
+ul{
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+div{
+    text-align: center;
+}
